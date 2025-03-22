@@ -21,9 +21,9 @@ Fixes #(issue number)
 ## Quality Verification
 Please verify you've completed all quality checks
 
-[View Complete Checklist](checklist_template.md)
+[View Complete Checklist](./checklist_template.md)
 
 ## Test Cases
 Fill this section with your test cases or use the template below
 
-[View Test Cases](test_cases_template.md)
+[View Test Cases](./test_cases_template.md)
